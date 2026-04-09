@@ -1,9 +1,7 @@
 export default function App() {
-  return (
-    <div>
-      <div>
-        
-      </div>
-    </div>
-  )
+	return (
+		<div>
+			<div></div>
+		</div>
+	);
 }
